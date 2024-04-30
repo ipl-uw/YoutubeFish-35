@@ -1,4 +1,4 @@
-# YoutubeFish-35
+# YoutubeFish-35 🐟
 
 This is the repository to the dataset **YoutubeFish-35** to the paper "Temporal Transformers for Indiscernible Object Counting from Underwater Videos" [[arxiv]](https://arxiv.org/pdf/2403.03461).
 
